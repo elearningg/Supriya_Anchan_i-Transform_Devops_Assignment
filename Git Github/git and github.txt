@@ -1,0 +1,56 @@
+
+Section 1,2,3        
+GIT Branching and GIT Remoting..
+--------------------------------------------------------------------------------------------------------------------------------------------------
+Javascript,Css,Html project from local repository pushed to Remote Repository which is named as freshersbatch-oct16 in Assignments Directory.
+Github Repo Link :- https://github.com/elearningg/freshersbatch-oct16.git
+
+Using Eclipse GIT plugin commited and pushed SampleProject.
+Github Repo Link :- https://github.com/elearningg/SampleProject.githttps://github.com/elearningg/Supriya_Anchan_i-Transform_Devop_Assignment.git
+
+___________________________________________________________________________________________________________________________________________________
+
+Case study 1
+
+Forked and cloned the repository of https://github.com/satyensingh/content-git-quickstart.git
+Added story.txt file and modified in contributers.txt and sent a pull request to repository owner.
+
+github repo link: https://github.com/elearningg/content-git-quickstart/tree/mystory
+____________________________________________________________________________________________________________________________________________________
+
+Case study 3
+
+Created new github repository 'web-api'named. Created and added README.txt file.
+
+github repo link: https://github.com/elearningg/content-git-quickstart/tree/mystory
+_____________________________________________________________________________________________________________________________________________________
+
+case study 4
+
+Created new branches, did the corrections in README.txt in case study 3 and merged the changes done into master branch
+
+github repo Link: https://github.com/elearningg/web-api/tree/fix-readme
+_____________________________________________________________________________________________________________________________________________________
+
+case study 5
+
+forked and cloned the rpository of https://github.com/satyensingh/train-schedule-app.git
+created feature branch for modification of views/index.jade and sent a pull request to the owner of repository to merge
+
+github repo Link: https://github.com/elearningg/train-schedule-app/tree/feature
+
+______________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
