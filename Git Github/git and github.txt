@@ -1,6 +1,6 @@
 
 Section 1,2,3        
-GIT Branching and GIT Remoting..
+GIT Branching and GIT Remoting.
 --------------------------------------------------------------------------------------------------------------------------------------------------
 Javascript,Css,Html project from local repository pushed to Remote Repository which is named as freshersbatch-oct16 in Assignments Directory.
 Github Repo Link :- https://github.com/elearningg/freshersbatch-oct16.git
