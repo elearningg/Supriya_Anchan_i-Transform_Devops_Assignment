@@ -18,6 +18,12 @@ Added story.txt file and modified in contributers.txt and sent a pull request to
 github repo link: https://github.com/elearningg/content-git-quickstart/tree/mystory
 ____________________________________________________________________________________________________________________________________________________
 
+Case study 2
+
+According to the scenario, Successfully initialized a secure shell(ssh) connection.
+
+_____________________________________________________________________________________________________________________________________________________
+
 Case study 3
 
 Created new github repository 'web-api'named. Created and added README.txt file.
