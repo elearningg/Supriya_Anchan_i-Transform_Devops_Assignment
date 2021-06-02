@@ -1,0 +1,4 @@
+Command:
+terraform init
+terraform plan -out tf_image_plan
+terraform apply "tf_image_plan"
