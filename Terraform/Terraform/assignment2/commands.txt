@@ -1,6 +1,0 @@
-Commands:
-terraform init
-terraform plan -var 'container_name=ghost_blog1' -out tfplan
-terraform plan -var 'image_name=ghost:alpine' -out tfplan
-terraform plan -var 'ext_port=8080' -out tfplan
-terraform apply "tfplan"
